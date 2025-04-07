@@ -9,7 +9,7 @@ int main() {
     char cidade1[30];
 
     // integers são apenas números inteiros. ocupam menos espaço.
-    unsigned int populacaoc1;
+    unsigned long int populacaoc1;
     int pontostc1;
 
     // float armazena números decimais, com precisão menor que as de um double. ocupa mais espaço.
@@ -27,7 +27,7 @@ int main() {
     char codigoc2[10];
     char cidade2[30];
 
-    unsigned int populacaoc2;
+    unsigned long int populacaoc2;
     int pontostc2;
 
     float areac2;
